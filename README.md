@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **typescript and python**
 
-- 👨‍💻 All of my projects are available at [(coming very soon)]((coming very soon))
+- 👨‍💻 My Portfolio: https://kylepowis.dev
 
 - 💬 Ask me about **React.JS, React Native, PSQL, Javascript, Node.js, Express, Tailwind CSS, Supabase. Vercel.**
 
