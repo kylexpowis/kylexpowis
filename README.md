@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kyle</h1>
+<h1 align="center">Kyle Powis</h1>
 <h2 align="center">A passionate full stack developer from Manchester, UK!</h2>
 
 - 🔭 I’m currently working on **a private cryptocurrency scanner for a client**
