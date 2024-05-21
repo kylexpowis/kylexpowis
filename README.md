@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a private cryptocurrency scanner for a client**
 
-- 🌱 I’m currently learning **typescript and python**
+- 🌱 I’m currently learning **typescript**
 
 - 👨‍💻 My Portfolio: https://kylepowis.dev
 
