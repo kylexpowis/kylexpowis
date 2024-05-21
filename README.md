@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **kylepowis@gmail.com**
 
-- 📄 Northcoders Bootcamp Graduate. I spiralled from there!
+- 📄 Northcoders Bootcamp Graduate.
 
 <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
