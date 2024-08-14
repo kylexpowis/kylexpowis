@@ -1,7 +1,7 @@
 <h1 align="center">Kyle Powis 🧑🏽‍💻</h1>
 <h2 align="center">A passionate full stack developer from Manchester, UK!</h2>
 
-- 🌱 I’m currently learning **Advanced React/React Natibe**
+- 🌱 I’m currently learning **Advanced React/React Native**
 
 - 👨‍💻 My Portfolio: https://kylepowis.dev
 
